@@ -1,0 +1,29 @@
+.video {
+  background-color: #a8d741;
+  padding: 80px 60px 80px 60px;
+}
+
+.video-title {
+  font-size: 3em;
+  font-weight: 600;
+  padding-bottom: 0.5em;
+  text-align: center;
+  color: #f8f6f6;
+  font-family: sans-serif;
+}
+
+.video-wrapper {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.video-wrapper iframe {
+  border-radius: 24px;
+  overflow: hidden;
+}
+
+.map iframe {
+  /* width: 100%; */
+}
